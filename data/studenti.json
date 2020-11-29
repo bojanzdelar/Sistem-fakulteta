@@ -1,0 +1,182 @@
+[
+    {
+        "broj indeksa": 2019270111,
+        "lozinka": "pera",
+        "ime": "Petar",
+        "prezime": "Petrovi\u0107",
+        "email": "petar.petrovic.19@singimail.ac.rs",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 111,
+                "ocena": 7
+            },
+            {
+                "sifra_predmeta": "1004",
+                "sifra_profesora": 222,
+                "ocena": 8
+            },
+            {
+                "sifra_predmeta": "1006",
+                "sifra_profesora": 333,
+                "ocena": 7
+            },
+            {
+                "sifra_predmeta": "1007",
+                "sifra_profesora": 555,
+                "ocena": 7
+            },
+            {
+                "sifra_predmeta": "1008",
+                "sifra_profesora": 444,
+                "ocena": 8
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270983,
+        "lozinka": "lozinka",
+        "ime": "Bojan",
+        "prezime": "Zdelar",
+        "email": "bojan.zdelar@gmail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 111,
+                "ocena": 9
+            },
+            {
+                "sifra_predmeta": "1004",
+                "sifra_profesora": 222,
+                "ocena": 10
+            },
+            {
+                "sifra_predmeta": "1001",
+                "sifra_profesora": 777,
+                "ocena": 10
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270901,
+        "lozinka": "jabuka123",
+        "ime": "Nikola",
+        "prezime": "Markovi\u0107",
+        "email": "nmarkovic@hotmail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 111,
+                "ocena": 10
+            },
+            {
+                "sifra_predmeta": "1004",
+                "sifra_profesora": 111,
+                "ocena": 9
+            },
+            {
+                "sifra_predmeta": "1005",
+                "sifra_profesora": 111,
+                "ocena": 6
+            },
+            {
+                "sifra_predmeta": "1006",
+                "sifra_profesora": 111,
+                "ocena": 8
+            },
+            {
+                "sifra_predmeta": "1007",
+                "sifra_profesora": 111,
+                "ocena": 9
+            },
+            {
+                "sifra_predmeta": "1008",
+                "sifra_profesora": 111,
+                "ocena": 10
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270999,
+        "lozinka": "lozinka",
+        "ime": "\u017darko",
+        "prezime": "Markovi\u0107",
+        "email": "z.markovic@yahoo.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 111,
+                "ocena": 5
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270123,
+        "lozinka": "lozinka",
+        "ime": "Marija",
+        "prezime": "Mili\u0107",
+        "email": "mmilic@gmail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1004",
+                "sifra_profesora": 222,
+                "ocena": 8
+            },
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 111,
+                "ocena": 7
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270009,
+        "lozinka": "lozinka",
+        "ime": "Vladimir",
+        "prezime": "Mati\u010di\u0107",
+        "email": "vmaticic@yahoo.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 333,
+                "ocena": 10
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270900,
+        "lozinka": "lozinka",
+        "ime": "Bojan",
+        "prezime": "Krsti\u0107",
+        "email": "mkrstic@gmail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 444,
+                "ocena": 8
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270934,
+        "lozinka": "lozinka",
+        "ime": "Bojan",
+        "prezime": "Dostani\u0107",
+        "email": "dostanicbojan@gmail.com",
+        "ocene": [
+            {
+                "sifra_predmeta": "1002",
+                "sifra_profesora": 555,
+                "ocena": 7
+            }
+        ]
+    },
+    {
+        "broj indeksa": 2019270619,
+        "lozinka": "lozinka",
+        "ime": "Milana",
+        "prezime": "Trni\u0107",
+        "email": "mtrnic@hotmail.com",
+        "ocene": []
+    }
+]
