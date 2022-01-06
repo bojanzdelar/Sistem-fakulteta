@@ -1,1 +1,1 @@
-# Fakultet
+# Sistem fakulteta
